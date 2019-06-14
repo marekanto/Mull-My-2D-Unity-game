@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/scripts/log.cs" Line="32" Column="1" />
+      <File FileName="Assets/scripts/knockback.cs" Line="28" Column="81" />
+      <File FileName="Assets/scripts/Scriptable Objects/FloatValue.cs" Line="5" Column="75" />
+      <File FileName="Assets/scripts/Scriptable Objects/Signal.cs" Line="4" Column="12" />
+      <File FileName="Assets/scripts/SignalListener.cs" Line="25" Column="1" />
+      <File FileName="Assets/scripts/HeartManager.cs" Line="14" Column="1" />
+      <File FileName="Assets/scripts/Score.cs" Line="9" Column="17" />
+      <File FileName="Assets/TextMesh Pro/Resources/WaveSpawner.cs" Line="65" Column="32" />
+      <File FileName="Assets/scripts/CameraMovement.cs" Line="30" Column="1" />
+      <File FileName="Assets/scripts/PlayerMovement.cs" Line="120" Column="49" />
+      <File FileName="Assets/scripts/Enemy.cs" Line="60" Column="28" />
+      <File FileName="Assets/scripts/Alert.cs" Line="23" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4de32bc7-f8fa-481b-aa80-609cce3e641b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

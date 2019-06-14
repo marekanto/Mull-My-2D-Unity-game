@@ -1,0 +1,455 @@
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 5
+mull health: 4
+mull health: 3
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 10
+mull health: 5
+mull health: 4
+mull health: 3
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 0
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 5
+mull health: 4
+mull health: 3
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+mull health: 2
+mull health: 1
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 0
+mull died
+Score: 170
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 5
+enemy health: 2
+mull health: 4
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 3
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 60
+mull health: 5
+mull health: 4
+mull health: 3
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 0
+mull health: 5
+mull health: 4
+mull health: 3
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 0
+mull health: 5
+mull health: 5
+enemy health: 2
+mull health: 4
+mull health: 3
+enemy health: 1
+Enemy died 
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 10
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+mull health: 5
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 4
+mull health: 3
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 110
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 5
+mull health: 4
+mull health: 3
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 10
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+mull health: 5
+mull health: 4
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 3
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 160
+mull health: 5
+mull health: 4
+mull health: 3
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 0
+enemy health: 2
+mull health: 5
+mull health: 4
+mull health: 3
+mull health: 2
+enemy health: 2
+mull health: 1
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+mull health: 5
+enemy health: 1
+Enemy died 
+mull health: 0
+mull died
+Score: 0
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+mull health: 5
+mull health: 4
+enemy health: 2
+mull health: 3
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+mull health: 2
+mull health: 1
+mull health: 0
+mull died
+Score: 80
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 0
+Enemy died 
+enemy health: 2
+enemy health: 1,5
+enemy health: 1
+enemy health: 0,5
+Enemy died 
+enemy health: 2
+enemy health: 1,5
+enemy health: 1
+enemy health: 0,5
+Enemy died 
+mull health: 5
+mull health: 4
+mull health: 3
+mull health: 2
+enemy health: 2
+enemy health: 1,5
+enemy health: 1
+enemy health: 0,5
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1,5
+enemy health: 1
+enemy health: 0,5
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 0
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 0
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1,5
+enemy health: 1
+enemy health: 0,5
+Enemy died 
+enemy health: 2
+enemy health: 1,5
+enemy health: 2
+mull health: 5
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 0
+Enemy died 
+enemy health: 1,5
+enemy health: 0,5
+Enemy died 
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+enemy health: 1
+Enemy died 
+enemy health: 2
+mull health: 4
+enemy health: 1
+enemy health: 2
+enemy health: 2
+enemy health: 0,5
+Enemy died 
+mull health: 3
+mull health: 2
+enemy health: 1,5
+enemy health: 1,5
+mull health: 1
+mull health: 0
+mull died
+Score: 140
